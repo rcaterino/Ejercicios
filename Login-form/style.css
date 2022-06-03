@@ -1,0 +1,37 @@
+html,
+body {
+	height: 100%;
+	margin: 0;
+}
+.login {
+	background: rgb(7, 38, 87);
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+h1 {
+	color: white;
+	text-align: center;
+}
+button {
+	background: rgb(72, 116, 215);
+	text-align: center;
+	color: white;
+	border-radius: 5px;
+	border: none;
+	display: block;
+	padding: 5px;
+	margin: 10px auto 10px auto;
+	width: 210px;
+}
+input {
+	display: block;
+	width: 200px;
+	margin: 10px auto 10px auto;
+	background: rgb(5, 26, 61);
+	border: none;
+	border-radius: 5px;
+	padding: 5px;
+	box-sizing: border-box;
+}
